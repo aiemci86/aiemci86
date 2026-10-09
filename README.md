@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Enrico
+I'm Enrico.
 I'm a Telecommunications Engineer with 13+ years of experience working at the intersection of software engineering, technology governance and technical delivery.
 My professional background includes software development, regulated technology environments, technical assurance, process optimisation and cross-functional project delivery.
 I'm currently developing Blenvy, an independent software product built with Flutter/Dart and Supabase.
